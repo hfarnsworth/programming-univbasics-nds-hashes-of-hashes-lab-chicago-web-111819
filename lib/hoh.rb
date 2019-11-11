@@ -52,5 +52,5 @@ newArray[:sub_category][:sub_category][:sub_category] = PORTION_2
 
 #newArray[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_4
 
-
+newArray
 end
