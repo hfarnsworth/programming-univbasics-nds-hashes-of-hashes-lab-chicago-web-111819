@@ -44,8 +44,10 @@ def naming_system
   
 newArray = [ PORTION_1 ]
   
-newArray[:sub_category][:sub_category] PORTION_2
+newArray[:sub_category][:sub_category][:sub_category] = PORTION_2
 
-newArray[:sub_category][:sub_category][:sub_category]
+newArray[:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_3
+
+newArray[:sub_category][:sub_category][:sub_category][:sub_category][:sub_category][:sub_category] = PORTION_4
 
 end
